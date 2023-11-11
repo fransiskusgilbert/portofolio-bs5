@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+#tech {
+  background-color: #e2edff;
+  opacity: 0.5s;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.description {
+  text-align: justify;
+}
+
+.info-1 {
+  margin: 10px 0;
+}
+
+.border-bottom {
+  margin: -4px 0;
+}
+
+.col-md-4 a {
+  font-size: 80px;
+}
